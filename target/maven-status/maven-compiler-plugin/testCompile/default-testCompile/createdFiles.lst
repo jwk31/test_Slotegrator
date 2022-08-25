@@ -1,0 +1,4 @@
+runner\RunnerClass.class
+stepDefs\BaseUITest.class
+stepDefs\apiStepDefs\ApiTestSteps.class
+stepDefs\FilterPlayersListSteps.class

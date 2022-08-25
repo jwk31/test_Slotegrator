@@ -1,0 +1,13 @@
+API\pojo\PlayerPojo.class
+API\helperMethods\HelperAPI.class
+UI\utils\Driver.class
+UI\pageObjects\IndexPage.class
+dataProviders\ConfigReader.class
+asserts\AssertClass.class
+UI\pageObjects\BasePage.class
+UI\helperMethods\HelperUI.class
+dataProviders\MockDataGenerator.class
+UI\pageObjects\LoginPage.class
+UI\pageObjects\PlayersListPage.class
+UI\utils\FireFoxWebDriver.class
+UI\utils\ChromeWebDriver.class
